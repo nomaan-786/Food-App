@@ -60,7 +60,7 @@ const Footer = () => {
             <FontAwesomeIcon icon={faTwitter} className="w-6 h-6" />
           </a>
           <a
-            href="https://www.instagram.com/mjgupta0"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="mx-2 text-gray-400 hover:text-white"
@@ -68,7 +68,7 @@ const Footer = () => {
             <FontAwesomeIcon icon={faInstagram} className="w-6 h-6" />
           </a>
           <a
-            href="https://www.linkedin.com/in/mjgupta91/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="mx-2 text-gray-400 hover:text-white"
